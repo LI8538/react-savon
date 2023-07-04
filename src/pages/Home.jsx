@@ -13,7 +13,7 @@ const Home = () => {
         sont faits de façon artisanale par une savonnière passionnée.
         L'authenticité de nos produits, leur originalité et leur qualité font la
         réputation de notre savonnerie. Tous nos savons et tous nos shampoings
-        solides sont emballés sur du papier ensemencé de fleurs sauvages.
+        solides sont emballés sur du papier ensemencé de fleurs sauvages!
       </p>
     </div>
   );
