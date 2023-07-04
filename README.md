@@ -1,1 +1,1 @@
-# react-savon
+# boutique-savon-react
